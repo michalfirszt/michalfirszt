@@ -1,4 +1,4 @@
-Michał, Front-end developer
+[![Michał, Front-end developer](https://assets.selleo.com/banners/mfirszt.svg)](https://selleo.com/)
 
 <!--
 **michalfirszt/michalfirszt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
